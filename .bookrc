@@ -1,0 +1,22 @@
+{
+  "name": "The Innocents Abroad",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets",
+  "book_id": 1199,
+  "book_url": "https://bubblin.io/book/the-innocents-abroad-by-mark-twain"
+}

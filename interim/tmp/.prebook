@@ -88,13 +88,13 @@
         "Five dollars per day, in gold, it is believed, will be a fair calculation to make for all traveling expenses onshore and at the various points where passengers may wish to leave the steamer for days at a time.",
         "The trip can be extended, and the route changed, by unanimous vote of the passengers.",
         "CHAS. C. DUNCAN, 117 WALL STREET, NEW YORK",
-        "R. R. G\\\\\\, Treasurer",
+        "R. R. G, Treasurer",
         "Committee on Applications",
-        "J. T. H\\\\, ESQ. R. R. G\\\\, ESQ. C. C. Duncan",
+        "J. T. H, ESQ. R. R. G, ESQ. C. C. Duncan",
         "Committee on Selecting Steamer",
         "CAPT. W. W. S\\ \\ \\ , Surveyor for Board of Underwriters",
-        "C. W. C\\\\\\, Consulting Engineer for U.S. and Canada",
-        "J. T. H\\\\, Esq.",
+        "C. W. C, Consulting Engineer for U.S. and Canada",
+        "J. T. H, Esq.",
         "C. C. DUNCAN"
       ]
     }
@@ -153,7 +153,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p028.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p028.jpg"
   },
   {
     "tag": "p",
@@ -205,7 +205,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p030.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p030.jpg"
   },
   {
     "tag": "p",
@@ -257,7 +257,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p034.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p034.jpg"
   },
   {
     "tag": "p",
@@ -329,7 +329,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p036.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p036.jpg"
   },
   {
     "tag": "p",
@@ -489,7 +489,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p042.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p042.jpg"
   },
   {
     "tag": "p",
@@ -497,7 +497,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p044.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p044.jpg"
   },
   {
     "tag": "p",
@@ -573,7 +573,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p049.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p049.jpg"
   },
   {
     "tag": "p",
@@ -597,7 +597,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p052.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p052.jpg"
   },
   {
     "tag": "p",
@@ -621,7 +621,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p053.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p053.jpg"
   },
   {
     "tag": "p",
@@ -669,7 +669,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p057.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p057.jpg"
   },
   {
     "tag": "p",
@@ -705,7 +705,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p059.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p059.jpg"
   },
   {
     "tag": "p",
@@ -785,7 +785,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p064.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p064.jpg"
   },
   {
     "tag": "p",
@@ -801,7 +801,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p064a.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p064a.jpg"
   },
   {
     "tag": "p",
@@ -821,7 +821,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p067.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p067.jpg"
   },
   {
     "tag": "p",
@@ -873,7 +873,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p070.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p070.jpg"
   },
   {
     "tag": "p",
@@ -897,7 +897,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p071.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p071.jpg"
   },
   {
     "tag": "p",
@@ -913,7 +913,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p072.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p072.jpg"
   },
   {
     "tag": "p",
@@ -945,7 +945,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p074.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p074.jpg"
   },
   {
     "tag": "p",
@@ -1013,7 +1013,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p077.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p077.jpg"
   },
   {
     "tag": "p",
@@ -1065,7 +1065,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p081.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p081.jpg"
   },
   {
     "tag": "p",
@@ -1165,7 +1165,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p088.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p088.jpg"
   },
   {
     "tag": "p",
@@ -1213,7 +1213,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p091.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p091.jpg"
   },
   {
     "tag": "p",
@@ -1289,7 +1289,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p095.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p095.jpg"
   },
   {
     "tag": "p",
@@ -1349,7 +1349,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p096.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p096.jpg"
   },
   {
     "tag": "p",
@@ -1377,7 +1377,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p099.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p099.jpg"
   },
   {
     "tag": "p",
@@ -1393,7 +1393,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p100.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p100.jpg"
   },
   {
     "tag": "p",
@@ -1405,7 +1405,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p101.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p101.jpg"
   },
   {
     "tag": "p",
@@ -1429,7 +1429,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p103.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p103.jpg"
   },
   {
     "tag": "p",
@@ -1453,7 +1453,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p106.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p106.jpg"
   },
   {
     "tag": "p",
@@ -1485,7 +1485,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p108.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p108.jpg"
   },
   {
     "tag": "p",
@@ -1493,7 +1493,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p109.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p109.jpg"
   },
   {
     "tag": "p",
@@ -1501,7 +1501,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p110.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p110.jpg"
   },
   {
     "tag": "p",
@@ -1517,7 +1517,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p111.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p111.jpg"
   },
   {
     "tag": "p",
@@ -1557,7 +1557,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p115.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p115.jpg"
   },
   {
     "tag": "p",
@@ -1589,7 +1589,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p117.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p117.jpg"
   },
   {
     "tag": "p",
@@ -1613,7 +1613,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p119.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p119.jpg"
   },
   {
     "tag": "p",
@@ -1745,7 +1745,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p122.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p122.jpg"
   },
   {
     "tag": "p",
@@ -1777,7 +1777,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p124.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p124.jpg"
   },
   {
     "tag": "p",
@@ -1797,11 +1797,11 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p126a.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p126a.jpg"
   },
   {
     "tag": "img",
-    "innerHtml": "p126b.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p126b.jpg"
   },
   {
     "tag": "p",
@@ -1841,7 +1841,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p129.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p129.jpg"
   },
   {
     "tag": "hr",
@@ -1873,7 +1873,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p132.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p132.jpg"
   },
   {
     "tag": "p",
@@ -1917,7 +1917,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p135.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p135.jpg"
   },
   {
     "tag": "p",
@@ -1929,7 +1929,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p136.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p136.jpg"
   },
   {
     "tag": "p",
@@ -1989,7 +1989,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p141.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p141.jpg"
   },
   {
     "tag": "p",
@@ -2005,7 +2005,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p142.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p142.jpg"
   },
   {
     "tag": "p",
@@ -2037,7 +2037,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p144.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p144.jpg"
   },
   {
     "tag": "p",
@@ -2121,7 +2121,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p148.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p148.jpg"
   },
   {
     "tag": "p",
@@ -2137,7 +2137,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p150.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p150.jpg"
   },
   {
     "tag": "p",
@@ -2169,7 +2169,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p151.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p151.jpg"
   },
   {
     "tag": "p",
@@ -2213,7 +2213,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p154.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p154.jpg"
   },
   {
     "tag": "p",
@@ -2265,7 +2265,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p161.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p161.jpg"
   },
   {
     "tag": "p",
@@ -2289,7 +2289,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p163.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p163.jpg"
   },
   {
     "tag": "p",
@@ -2301,7 +2301,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p164.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p164.jpg"
   },
   {
     "tag": "p",
@@ -2345,7 +2345,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p168.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p168.jpg"
   },
   {
     "tag": "p",
@@ -2365,7 +2365,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p169.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p169.jpg"
   },
   {
     "tag": "p",
@@ -2409,7 +2409,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p172.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p172.jpg"
   },
   {
     "tag": "p",
@@ -2425,7 +2425,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p173.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p173.jpg"
   },
   {
     "tag": "p",
@@ -2437,7 +2437,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p174.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p174.jpg"
   },
   {
     "tag": "p",
@@ -2449,7 +2449,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p176.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p176.jpg"
   },
   {
     "tag": "p",
@@ -2493,7 +2493,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p179.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p179.jpg"
   },
   {
     "tag": "p",
@@ -2517,7 +2517,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p181.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p181.jpg"
   },
   {
     "tag": "hr",
@@ -2541,7 +2541,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p184.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p184.jpg"
   },
   {
     "tag": "p",
@@ -2669,7 +2669,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p191.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p191.jpg"
   },
   {
     "tag": "p",
@@ -2737,7 +2737,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p194.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p194.jpg"
   },
   {
     "tag": "p",
@@ -2821,7 +2821,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p196.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p196.jpg"
   },
   {
     "tag": "p",
@@ -2833,7 +2833,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p197.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p197.jpg"
   },
   {
     "tag": "p",
@@ -2869,7 +2869,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p200.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p200.jpg"
   },
   {
     "tag": "p",
@@ -2893,7 +2893,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p202.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p202.jpg"
   },
   {
     "tag": "p",
@@ -2929,7 +2929,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p204.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p204.jpg"
   },
   {
     "tag": "p",
@@ -2973,7 +2973,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p207.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p207.jpg"
   },
   {
     "tag": "p",
@@ -2981,7 +2981,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p208.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p208.jpg"
   },
   {
     "tag": "p",
@@ -2993,7 +2993,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p209.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p209.jpg"
   },
   {
     "tag": "p",
@@ -3025,7 +3025,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p210.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p210.jpg"
   },
   {
     "tag": "h3",
@@ -3225,7 +3225,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p215.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p215.jpg"
   },
   {
     "tag": "p",
@@ -3281,7 +3281,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p220.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p220.jpg"
   },
   {
     "tag": "p",
@@ -3345,7 +3345,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p226.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p226.jpg"
   },
   {
     "tag": "p",
@@ -3369,7 +3369,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p229.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p229.jpg"
   },
   {
     "tag": "p",
@@ -3393,7 +3393,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p230.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p230.jpg"
   },
   {
     "tag": "p",
@@ -3429,7 +3429,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p234.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p234.jpg"
   },
   {
     "tag": "p",
@@ -3449,7 +3449,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p236.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p236.jpg"
   },
   {
     "tag": "p",
@@ -3469,11 +3469,11 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p238.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p238.jpg"
   },
   {
     "tag": "img",
-    "innerHtml": "p239.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p239.jpg"
   },
   {
     "tag": "p",
@@ -3585,7 +3585,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p241.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p241.jpg"
   },
   {
     "tag": "hr",
@@ -3613,7 +3613,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p245.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p245.jpg"
   },
   {
     "tag": "p",
@@ -3621,7 +3621,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p246.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p246.jpg"
   },
   {
     "tag": "p",
@@ -3641,7 +3641,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p248.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p248.jpg"
   },
   {
     "tag": "p",
@@ -3661,7 +3661,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p250.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p250.jpg"
   },
   {
     "tag": "p",
@@ -3757,7 +3757,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p258.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p258.jpg"
   },
   {
     "tag": "p",
@@ -3801,7 +3801,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p263.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p263.jpg"
   },
   {
     "tag": "p",
@@ -3817,7 +3817,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p264.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p264.jpg"
   },
   {
     "tag": "p",
@@ -3849,7 +3849,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p267.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p267.jpg"
   },
   {
     "tag": "p",
@@ -3889,7 +3889,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p276.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p276.jpg"
   },
   {
     "tag": "p",
@@ -3913,7 +3913,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p278.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p278.jpg"
   },
   {
     "tag": "p",
@@ -3961,7 +3961,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p281.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p281.jpg"
   },
   {
     "tag": "blockquote",
@@ -3989,7 +3989,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p285.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p285.jpg"
   },
   {
     "tag": "p",
@@ -4001,7 +4001,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p286.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p286.jpg"
   },
   {
     "tag": "p",
@@ -4025,7 +4025,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p288.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p288.jpg"
   },
   {
     "tag": "p",
@@ -4041,7 +4041,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p289.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p289.jpg"
   },
   {
     "tag": "p",
@@ -4133,7 +4133,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p291.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p291.jpg"
   },
   {
     "tag": "p",
@@ -4233,7 +4233,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p293.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p293.jpg"
   },
   {
     "tag": "p",
@@ -4361,7 +4361,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p299.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p299.jpg"
   },
   {
     "tag": "p",
@@ -4437,7 +4437,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p302.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p302.jpg"
   },
   {
     "tag": "p",
@@ -4445,7 +4445,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p303.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p303.jpg"
   },
   {
     "tag": "p",
@@ -4453,7 +4453,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p304.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p304.jpg"
   },
   {
     "tag": "p",
@@ -4545,7 +4545,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p309.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p309.jpg"
   },
   {
     "tag": "h3",
@@ -4597,7 +4597,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p313.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p313.jpg"
   },
   {
     "tag": "p",
@@ -4637,7 +4637,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p316.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p316.jpg"
   },
   {
     "tag": "p",
@@ -4657,7 +4657,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p319.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p319.jpg"
   },
   {
     "tag": "p",
@@ -4681,7 +4681,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p320.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p320.jpg"
   },
   {
     "tag": "p",
@@ -4689,7 +4689,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p321.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p321.jpg"
   },
   {
     "tag": "p",
@@ -4737,7 +4737,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p323.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p323.jpg"
   },
   {
     "tag": "h3",
@@ -4749,7 +4749,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p325.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p325.jpg"
   },
   {
     "tag": "p",
@@ -4777,7 +4777,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p328.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p328.jpg"
   },
   {
     "tag": "p",
@@ -4789,7 +4789,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p330.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p330.jpg"
   },
   {
     "tag": "p",
@@ -4805,7 +4805,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p334.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p334.jpg"
   },
   {
     "tag": "p",
@@ -4897,7 +4897,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p338.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p338.jpg"
   },
   {
     "tag": "p",
@@ -4957,7 +4957,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p340.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p340.jpg"
   },
   {
     "tag": "p",
@@ -4977,7 +4977,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p342.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p342.jpg"
   },
   {
     "tag": "p",
@@ -4989,7 +4989,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p344.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p344.jpg"
   },
   {
     "tag": "p",
@@ -5013,7 +5013,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p346.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p346.jpg"
   },
   {
     "tag": "p",
@@ -5029,7 +5029,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p348b.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p348b.jpg"
   },
   {
     "tag": "p",
@@ -5053,7 +5053,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p350.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p350.jpg"
   },
   {
     "tag": "p",
@@ -5073,7 +5073,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p352.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p352.jpg"
   },
   {
     "tag": "p",
@@ -5093,7 +5093,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p353.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p353.jpg"
   },
   {
     "tag": "hr",
@@ -5109,7 +5109,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p355.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p355.jpg"
   },
   {
     "tag": "p",
@@ -5121,7 +5121,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p356.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p356.jpg"
   },
   {
     "tag": "p",
@@ -5145,7 +5145,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p359.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p359.jpg"
   },
   {
     "tag": "p",
@@ -5161,7 +5161,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p360.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p360.jpg"
   },
   {
     "tag": "p",
@@ -5181,7 +5181,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p363.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p363.jpg"
   },
   {
     "tag": "p",
@@ -5213,7 +5213,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p366.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p366.jpg"
   },
   {
     "tag": "p",
@@ -5261,7 +5261,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p371.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p371.jpg"
   },
   {
     "tag": "p",
@@ -5305,7 +5305,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p374.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p374.jpg"
   },
   {
     "tag": "p",
@@ -5337,7 +5337,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p378.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p378.jpg"
   },
   {
     "tag": "p",
@@ -5393,7 +5393,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p382.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p382.jpg"
   },
   {
     "tag": "p",
@@ -5437,7 +5437,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p385.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p385.jpg"
   },
   {
     "tag": "p",
@@ -5457,7 +5457,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p386.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p386.jpg"
   },
   {
     "tag": "hr",
@@ -5517,7 +5517,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p392.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p392.jpg"
   },
   {
     "tag": "p",
@@ -5529,7 +5529,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p393.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p393.jpg"
   },
   {
     "tag": "p",
@@ -5597,7 +5597,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p399.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p399.jpg"
   },
   {
     "tag": "p",
@@ -5673,7 +5673,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p404.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p404.jpg"
   },
   {
     "tag": "p",
@@ -5697,7 +5697,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p405.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p405.jpg"
   },
   {
     "tag": "p",
@@ -5749,7 +5749,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p411.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p411.jpg"
   },
   {
     "tag": "p",
@@ -5769,7 +5769,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p413.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p413.jpg"
   },
   {
     "tag": "p",
@@ -5817,7 +5817,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p416.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p416.jpg"
   },
   {
     "tag": "p",
@@ -5857,7 +5857,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p419.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p419.jpg"
   },
   {
     "tag": "p",
@@ -5865,7 +5865,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p420.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p420.jpg"
   },
   {
     "tag": "p",
@@ -5885,7 +5885,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p422.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p422.jpg"
   },
   {
     "tag": "p",
@@ -5905,7 +5905,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p423.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p423.jpg"
   },
   {
     "tag": "p",
@@ -5917,7 +5917,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p424.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p424.jpg"
   },
   {
     "tag": "p",
@@ -5933,7 +5933,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p425.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p425.jpg"
   },
   {
     "tag": "p",
@@ -5965,7 +5965,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p429.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p429.jpg"
   },
   {
     "tag": "p",
@@ -6009,7 +6009,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p434.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p434.jpg"
   },
   {
     "tag": "p",
@@ -6033,7 +6033,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p436.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p436.jpg"
   },
   {
     "tag": "p",
@@ -6049,7 +6049,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p437.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p437.jpg"
   },
   {
     "tag": "hr",
@@ -6085,7 +6085,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p439.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p439.jpg"
   },
   {
     "tag": "p",
@@ -6101,7 +6101,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p440.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p440.jpg"
   },
   {
     "tag": "p",
@@ -6117,7 +6117,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p442.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p442.jpg"
   },
   {
     "tag": "p",
@@ -6173,7 +6173,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p445.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p445.jpg"
   },
   {
     "tag": "p",
@@ -6185,7 +6185,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p446.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p446.jpg"
   },
   {
     "tag": "p",
@@ -6193,7 +6193,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p447.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p447.jpg"
   },
   {
     "tag": "p",
@@ -6205,7 +6205,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p449.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p449.jpg"
   },
   {
     "tag": "p",
@@ -6213,7 +6213,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p450.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p450.jpg"
   },
   {
     "tag": "p",
@@ -6229,7 +6229,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p452.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p452.jpg"
   },
   {
     "tag": "p",
@@ -6241,7 +6241,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p453.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p453.jpg"
   },
   {
     "tag": "blockquote",
@@ -6269,7 +6269,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p455.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p455.jpg"
   },
   {
     "tag": "p",
@@ -6285,7 +6285,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p457.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p457.jpg"
   },
   {
     "tag": "p",
@@ -6321,7 +6321,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p460.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p460.jpg"
   },
   {
     "tag": "p",
@@ -6393,7 +6393,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p466.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p466.jpg"
   },
   {
     "tag": "p",
@@ -6485,7 +6485,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p474.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p474.jpg"
   },
   {
     "tag": "p",
@@ -6497,7 +6497,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p476.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p476.jpg"
   },
   {
     "tag": "p",
@@ -6533,7 +6533,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p479.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p479.jpg"
   },
   {
     "tag": "p",
@@ -6581,7 +6581,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p482.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p482.jpg"
   },
   {
     "tag": "p",
@@ -6589,7 +6589,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p483.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p483.jpg"
   },
   {
     "tag": "p",
@@ -6641,7 +6641,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p487.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p487.jpg"
   },
   {
     "tag": "hr",
@@ -6669,7 +6669,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p489.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p489.jpg"
   },
   {
     "tag": "p",
@@ -6693,7 +6693,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p490.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p490.jpg"
   },
   {
     "tag": "p",
@@ -6701,7 +6701,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p491.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p491.jpg"
   },
   {
     "tag": "p",
@@ -6749,7 +6749,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p495.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p495.jpg"
   },
   {
     "tag": "p",
@@ -6781,7 +6781,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p497.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p497.jpg"
   },
   {
     "tag": "p",
@@ -6837,7 +6837,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p504.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p504.jpg"
   },
   {
     "tag": "p",
@@ -6861,7 +6861,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p506.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p506.jpg"
   },
   {
     "tag": "p",
@@ -6985,7 +6985,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p516.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p516.jpg"
   },
   {
     "tag": "p",
@@ -7025,7 +7025,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p521.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p521.jpg"
   },
   {
     "tag": "p",
@@ -7049,7 +7049,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p524.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p524.jpg"
   },
   {
     "tag": "hr",
@@ -7089,7 +7089,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p530.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p530.jpg"
   },
   {
     "tag": "p",
@@ -7113,7 +7113,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p531.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p531.jpg"
   },
   {
     "tag": "p",
@@ -7177,7 +7177,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p533.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p533.jpg"
   },
   {
     "tag": "p",
@@ -7201,7 +7201,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p535.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p535.jpg"
   },
   {
     "tag": "p",
@@ -7225,7 +7225,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p536.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p536.jpg"
   },
   {
     "tag": "p",
@@ -7281,7 +7281,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p539.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p539.jpg"
   },
   {
     "tag": "p",
@@ -7325,7 +7325,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p544.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p544.jpg"
   },
   {
     "tag": "p",
@@ -7337,7 +7337,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p545.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p545.jpg"
   },
   {
     "tag": "p",
@@ -7357,7 +7357,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p546.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p546.jpg"
   },
   {
     "tag": "p",
@@ -7425,7 +7425,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p552.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p552.jpg"
   },
   {
     "tag": "p",
@@ -7517,7 +7517,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p556.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p556.jpg"
   },
   {
     "tag": "hr",
@@ -7545,7 +7545,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p559.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p559.jpg"
   },
   {
     "tag": "p",
@@ -7553,7 +7553,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p564.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p564.jpg"
   },
   {
     "tag": "p",
@@ -7613,7 +7613,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p566.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p566.jpg"
   },
   {
     "tag": "p",
@@ -7689,7 +7689,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p574.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p574.jpg"
   },
   {
     "tag": "p",
@@ -7713,7 +7713,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p577.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p577.jpg"
   },
   {
     "tag": "p",
@@ -7737,7 +7737,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p581.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p581.jpg"
   },
   {
     "tag": "p",
@@ -7845,7 +7845,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p589.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p589.jpg"
   },
   {
     "tag": "p",
@@ -7865,7 +7865,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p590.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p590.jpg"
   },
   {
     "tag": "p",
@@ -7921,7 +7921,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p594.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p594.jpg"
   },
   {
     "tag": "p",
@@ -7997,7 +7997,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p600.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p600.jpg"
   },
   {
     "tag": "p",
@@ -8061,7 +8061,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p606.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p606.jpg"
   },
   {
     "tag": "p",
@@ -8121,7 +8121,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p610.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p610.jpg"
   },
   {
     "tag": "p",
@@ -8137,7 +8137,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p611.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p611.jpg"
   },
   {
     "tag": "p",
@@ -8149,7 +8149,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p612.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p612.jpg"
   },
   {
     "tag": "p",
@@ -8157,7 +8157,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p614.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p614.jpg"
   },
   {
     "tag": "p",
@@ -8173,7 +8173,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p615.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p615.jpg"
   },
   {
     "tag": "p",
@@ -8193,7 +8193,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p617.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p617.jpg"
   },
   {
     "tag": "p",
@@ -8225,7 +8225,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p620.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p620.jpg"
   },
   {
     "tag": "p",
@@ -8257,7 +8257,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p622.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p622.jpg"
   },
   {
     "tag": "p",
@@ -8285,7 +8285,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p625.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p625.jpg"
   },
   {
     "tag": "p",
@@ -8305,7 +8305,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p626.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p626.jpg"
   },
   {
     "tag": "p",
@@ -8325,7 +8325,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p627.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p627.jpg"
   },
   {
     "tag": "p",
@@ -8337,7 +8337,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p629.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p629.jpg"
   },
   {
     "tag": "p",
@@ -8353,7 +8353,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p630.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p630.jpg"
   },
   {
     "tag": "p",
@@ -8365,7 +8365,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p631.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p631.jpg"
   },
   {
     "tag": "p",
@@ -8373,7 +8373,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p633.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p633.jpg"
   },
   {
     "tag": "p",
@@ -8381,7 +8381,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p634.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p634.jpg"
   },
   {
     "tag": "hr",
@@ -8397,7 +8397,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p635.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p635.jpg"
   },
   {
     "tag": "p",
@@ -8457,7 +8457,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p639.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p639.jpg"
   },
   {
     "tag": "p",
@@ -8489,7 +8489,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p640.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p640.jpg"
   },
   {
     "tag": "p",
@@ -8505,7 +8505,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p641.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p641.jpg"
   },
   {
     "tag": "hr",
@@ -8573,7 +8573,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "p651.jpg"
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-innocents-abroad/master/assets/images/p651.jpg"
   },
   {
     "tag": "hr",
